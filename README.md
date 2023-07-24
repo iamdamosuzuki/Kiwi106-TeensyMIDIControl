@@ -2,6 +2,12 @@
 
 This repository contains the code and build instructions for a MIDI controller that controlls a Kiwi-106. The purpose of this controller is to have all critical Kiwi-106 controls available on a hardware interface. This can control most of the MIDI-only controls for a Kiwi-106 (all the ones I decided were necessary for performance), along with the general controls for LFO2 and ENV2. This way, the user rarely needs to enter different pages, reducing the need for menu diving. 
 
+This code is based on:  MIDI CONTROLLER  by Notes and Volts  www.notesandvolts.com. Big thanks to Notes and Volts!
+
+## Getting Started
+
+Follow these instructions to install the Teensy board info in the Arduino IDE: https://www.pjrc.com/teensy/td_download.html
+
 ## Parts List
 
 - 1 Project Enclosure
