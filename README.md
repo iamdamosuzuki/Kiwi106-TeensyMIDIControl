@@ -89,5 +89,5 @@ Note: LED Numbers refer to the Teensy's Digital Pins
         
 ### Known Bugs
 
-    - LFO 2 Delay rate is backwards. Rather than adjusting the code I just flipped the polarity of the pot physically by switching hte Ground and +5v pins.  
-    - DCO Envelope Select knob is broken. It only lets you choose between ENV 1 Normal, and ENV 2 Inverted. Not sure why, I think it's a KIWI issue. 
+- LFO 2 Delay rate is backwards. Rather than adjusting the code I just flipped the polarity of the pot physically by switching hte Ground and +5v pins.  
+- DCO Envelope Select knob is broken. It only lets you choose between ENV 1 Normal, and ENV 2 Inverted. Not sure why, I think it's a KIWI issue. 
